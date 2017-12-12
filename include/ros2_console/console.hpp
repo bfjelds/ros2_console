@@ -9,8 +9,7 @@
 
 namespace ros2_console
 {
-
-// Define colors
+	// Define colors
 #ifdef WIN32
     #define ROS2_CONSOLE_COLOR_NORMAL ""
     #define ROS2_CONSOLE_COLOR_RED ""
